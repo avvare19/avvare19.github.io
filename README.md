@@ -1,6 +1,4 @@
 
-# Angel Varela
+# Angel Varela Final Project 
 
-### I am an artist. This is my portfolio site.
-
-This is a *README* file for my repository. It is written using **Markdown**.
+### Hi everyone, this is my site to show my photo work from photoshop.
